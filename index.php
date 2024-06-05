@@ -1,6 +1,4 @@
-<?php
- include "layout/header.php";
-?>
+
 
 <body id="page-top">
 
@@ -88,75 +86,7 @@
                     <span>Ubah_alamat_lengkap</span></a>
             </li>
 
-            <div class="form-floating mb-3">
-                            <style>
-                                table {
-                                    width: 100%;
-                                    border-collapse: collapse;
-                                }
-                                th, td {
-                                    border: 1px solid #dddddd;
-                                    padding: 8px;
-                                }
-                                th {
-                                    background-color: #f2f2f2;
-                                    text-align: left;
-                                }
-                                tr:nth-child(even) {
-                                    background-color: #f9f9f9;
-                                }
-                                tr:hover {
-                                    background-color: #ddd;
-                                }
-                            </style>
-                        </head>
-                        <body>
-                            <h1></h1>
-                            <table>
-                                <thead>
-                                    <tr>
-                                        <th>NIS</th>
-                                        <th>Nama Lengkap</th>
-                                        <th>Alamat</th>
-                                        <th>Kelas</th>
-                                        <th>SPP</th>
-                                        <th>#<th>
-                                          
-                             
-                                        <tr>
-                                            <th>22001001</th>
-                                            <th>SANTI RIMA</th>
-                                            <th>CIWANGI</th>
-                                            <th>XII-TP</th>
-                                            <th>200000</th>
-                                            <th>EDIT</th>
-                                            <th>HAPUS</th>  
-                                        </tr> 
-                                        <tr>
-                                            <th>22001002</th>
-                                            <th>SATRIA MELATI</th>
-                                            <th>CIMANUK</th>
-                                            <th>XII-RPL</th>
-                                            <th>225000</th>
-                                            <th>EDIT</th>
-                                            <th>HAPUS</th>  
-                                        </tr> 
-                                        <th>22001003</th>
-                                            <th>SANTI HANA</th>
-                                            <th>CITALANG</th>
-                                            <th>XII-TP</th>
-                                            <th>225000</th>
-                                            <th>EDIT</th>
-                                            <th>HAPUS</th>  
-                                        </tr>
-                                        <th>22001004</th>
-                                            <th>SATRIA MELATI</th>
-                                            <th>CIMANUK</th>
-                                            <th>XII-TP</th>
-                                            <th>225000</th>
-                                            <th>EDIT</th>  
-                                            <th>HAPUS</th>  
-     
+              
      
         <!-- Sign In End -->
     </div>
